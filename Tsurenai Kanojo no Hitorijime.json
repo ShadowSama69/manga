@@ -4,5 +4,14 @@
   "artist": "Amazato Sugar",
   "author": "Amazato Sugar",
   "cover": "https://mangadex.org/covers/9afb3424-4a71-4fc9-a3ab-60bb87aa9ed8/ef49d6ad-dcaf-41e8-b84f-6e293aff7a68.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1748167606",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2ar2xj7l"
+      }
+    }
+  }
 }
