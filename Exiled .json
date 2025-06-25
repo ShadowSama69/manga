@@ -4,5 +4,16 @@
   "artist": "Nimori Shimatsukasa",
   "author": "Hinoura Takumi",
   "cover": "https://mangadex.org/covers/5f64d517-c4ea-40c0-a463-fcc069d39d3b/8dcd9faf-0f65-4cd2-8c1c-761515c43dac.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1750845514",
+      "groups": {
+        "Shadow sama scans": [
+          ""
+        ]
+      }
+    }
+  }
 }
