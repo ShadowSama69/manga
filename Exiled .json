@@ -6,13 +6,187 @@
   "cover": "https://mangadex.org/covers/5f64d517-c4ea-40c0-a463-fcc069d39d3b/8dcd9faf-0f65-4cd2-8c1c-761515c43dac.png",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Vol.1 Ch.1",
       "volume": "1",
-      "last_updated": "1750845514",
+      "last_updated": "1750847038",
       "groups": {
-        "Shadow sama scans": [
-          ""
-        ]
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/qe4g5we2q7j"
+      }
+    },
+    "2": {
+      "title": "Vol.1 Ch.2",
+      "volume": "1",
+      "last_updated": "1750847017",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/pg735lrbg4r"
+      }
+    },
+    "3": {
+      "title": "Vol.1 Ch.3",
+      "volume": "1",
+      "last_updated": "1750846986",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/ljyqr2v8d42"
+      }
+    },
+    "4": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1750848051",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/6eyrmlvll4p"
+      }
+    },
+    "5": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1750848021",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/5xy282d23yl"
+      }
+    },
+    "6": {
+      "title": "The Second Beginning 1 The Visitor who takes good points",
+      "volume": "2",
+      "last_updated": "1750847959",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/dl7pd8vd37o"
+      }
+    },
+    "7": {
+      "title": "Genuine",
+      "volume": "3",
+      "last_updated": "1750847819",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/9ryd6rx6a7k"
+      }
+    },
+    "8": {
+      "title": "The True Hero",
+      "volume": "3",
+      "last_updated": "1750847789",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/5xy282d8zyl"
+      }
+    },
+    "9": {
+      "title": "The Demon World",
+      "volume": "3",
+      "last_updated": "1750847752",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/dl7pd8ve37o"
+      }
+    },
+    "10": {
+      "title": "Vol.3 Ch.14",
+      "last_updated": "1750847716",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/9249p3vwb7n"
+      }
+    },
+    "11": {
+      "title": "Resolve",
+      "last_updated": "1750847669",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/o24a8j3qd7l"
+      }
+    },
+    "12": {
+      "title": "The Feelings of the Other Side",
+      "volume": "4",
+      "last_updated": "1750847628",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/qb4z8nde54j"
+      }
+    },
+    "13": {
+      "title": "The First Outcome",
+      "volume": "4",
+      "last_updated": "1750847585",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/9ryd6rxma7k"
+      }
+    },
+    "14": {
+      "title": "The Memoir of World 001 Part 1",
+      "volume": "4",
+      "last_updated": "1750847535",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/5xy282dazyl"
+      }
+    },
+    "15": {
+      "title": "The Memoir of World 001 Part 2",
+      "volume": "4",
+      "last_updated": "1750847497",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/md7oq89924p"
+      }
+    },
+    "16": {
+      "title": "The Memoir of World 001 Part 3",
+      "volume": "4",
+      "last_updated": "1750847463",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/m9yx83jjp7q"
+      }
+    },
+    "17": {
+      "title": "The Ultimate Weapon 2_ Settling the score with the past",
+      "last_updated": "1750847832",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/pg735lr5g4r"
+      }
+    },
+    "18": {
+      "title": "The Ultimate Weapon 1_ Settling the score with the past",
+      "last_updated": "1750847853",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/lqyegmagm7d"
+      }
+    },
+    "19": {
+      "title": " Memory's Fortune_ The Quest for Hidden Treasures! 2",
+      "volume": "2",
+      "last_updated": "1750847870",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/qb4z8nd854j"
+      }
+    },
+    "20": {
+      "title": "Memory's Fortune_ The Quest for Hidden Treasures! 1",
+      "last_updated": "1750847891",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/o24a8j38d7l"
+      }
+    },
+    "21": {
+      "title": "Second Beginning 2 Memories of the Soul Part 2",
+      "last_updated": "1750847903",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/agyv9r29b78"
+      }
+    },
+    "22": {
+      "title": "Second Beginning 2 Memories of the Soul Part 1",
+      "volume": "2",
+      "last_updated": "1750847929",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/9249p3vpb7n"
+      }
+    },
+    "23": {
+      "title": "Promise 2",
+      "last_updated": "1750847977",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/5xy282d2zyl"
+      }
+    },
+    "24": {
+      "title": "Promise 1",
+      "last_updated": "1750847990",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/vj4jg898348"
       }
     }
   }
