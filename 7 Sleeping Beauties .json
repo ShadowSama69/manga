@@ -509,63 +509,69 @@
         "Shadow Sama Scans": "/proxy/api/imgchest/chapter/agyvqk88w48"
       }
     },
-      "64": {
-    "title": "Something Gained, Something Lost",
-    "volume": "",
-    "last_updated": "1749141726",
-    "groups": {
-      "Shadow sama scans": "/proxy/api/imgchest/chapter/m9yx8kzam7q"
+    "64": {
+      "title": "Something Gained, Something Lost",
+      "volume": "",
+      "last_updated": "1749141726",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/m9yx8kzam7q"
+      }
+    },
+    "65": {
+      "title": "Dig it out! The vault’s secrets",
+      "volume": "7",
+      "last_updated": "1749823668",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/pg735wn6v4r"
+      }
+    },
+    "66": {
+      "title": "Surprise Attack on Horseback",
+      "volume": "7",
+      "last_updated": "1750429469",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/6eyrm9l3l4p"
+      }
+    },
+    "67": {
+      "title": "The Night of the Plan",
+      "volume": "7",
+      "last_updated": "1751828006",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/9p4njqzk5yn"
+      }
+    },
+    "68": {
+      "title": "I Gotta Hurry and Take a Bath",
+      "volume": "",
+      "last_updated": "1752609289",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/ej7mlpdpa4d"
+      }
+    },
+    "69": {
+      "title": "The Rings of the Three Angels",
+      "volume": "",
+      "last_updated": "1753300113",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/dl7pd3v887o"
+      }
+    },
+    "70": {
+      "title": "Tired Alec",
+      "volume": "",
+      "last_updated": "1755284835",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/bp45q23vv45"
+      }
+    },
+    "71": {
+      "title": "Alec > Lotte",
+      "volume": "",
+      "last_updated": "1757788609",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/agyvrb6vz78"
+      }
     }
-  },
-      "65": {
-    "title": "Dig it out! The vault’s secrets",
-    "volume": "7",
-    "last_updated": "1749823668",
-    "groups": {
-      "Shadow sama scans": "/proxy/api/imgchest/chapter/pg735wn6v4r"
-    }
-  },
-      "66": {
-    "title": "Surprise Attack on Horseback",
-    "volume": "7",
-    "last_updated": "1750429469",
-    "groups": {
-      "Shadow sama scans": "/proxy/api/imgchest/chapter/6eyrm9l3l4p"
-    }
-  },
-      "67": {
-    "title": "The Night of the Plan",
-    "volume": "7",
-    "last_updated": "1751828006",
-    "groups": {
-      "Shadow sama scans": "/proxy/api/imgchest/chapter/9p4njqzk5yn"
-    }
-  },
-      "68": {
-    "title": "I Gotta Hurry and Take a Bath",
-    "volume": "",
-    "last_updated": "1752609289",
-    "groups": {
-      "Shadow sama scans": "/proxy/api/imgchest/chapter/ej7mlpdpa4d"
-    }
-  },
-      "69": {
-    "title": "The Rings of the Three Angels",
-    "volume": "",
-    "last_updated": "1753300113",
-    "groups": {
-      "Shadow sama scans": "/proxy/api/imgchest/chapter/dl7pd3v887o"
-    }
-  },
-  
-  "70": {
-    "title": "Tired Alec",
-    "volume": "",
-    "last_updated": "1755284835",
-    "groups": {
-      "Shadow sama scans": "/proxy/api/imgchest/chapter/bp45q23vv45"
-    }
-  }
-
   }
 }
