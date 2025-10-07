@@ -349,6 +349,30 @@
         "": "/proxy/api/imgchest/chapter/ne7bkgbrv75"
       }
     },
+    "55": {
+      "title": "The Strom Breaks",
+      "volume": "",
+      "last_updated": "1751736179",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/md7oqdjel4p"
+      }
+    },
+    "56": {
+      "title": "The Storm Breaks 2",
+      "volume": "",
+      "last_updated": "1755286967",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/o24aja3zg4l"
+      }
+    },
+    "57": {
+      "title": "Visitor in the Rain",
+      "volume": "",
+      "last_updated": "1759851418",
+      "groups": {
+        "Shadow sama scans": "/proxy/api/imgchest/chapter/ej7mano5q7d"
+      }
+    },
     "3.1": {
       "title": "Like (Part 1)",
       "volume": "1",
@@ -436,25 +460,6 @@
       "groups": {
         "": "/proxy/api/imgchest/chapter/qb4zegno54j"
       }
-    },
-      "55": {
-    "title": "The Strom Breaks",
-    "volume": "",
-    "last_updated": "1751736179",
-    "groups": {
-      "Shadow sama scans": "/proxy/api/imgchest/chapter/md7oqdjel4p"
     }
-  },
-
-    "56": {
-    "title": "The Storm Breaks 2",
-    "volume": "",
-    "last_updated": "1755286967",
-    "groups": {
-      "Shadow sama scans": "/proxy/api/imgchest/chapter/o24aja3zg4l"
-    }
-  }
-
-
   }
 }
